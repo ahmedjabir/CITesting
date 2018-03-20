@@ -24,12 +24,5 @@ class ViewController: UIViewController {
     func testMethod() -> Void {
         return
     }
-    
-    ad
-    fdas
-    fds
-    af
-    sa
-    /
 }
 
